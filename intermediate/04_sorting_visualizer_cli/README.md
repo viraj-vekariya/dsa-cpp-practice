@@ -1,0 +1,1 @@
+Bubble sort, merge sort, and quick sort implemented from scratch (no `std::sort`), first verified for correctness against each other on a small array, then benchmarked with `<chrono>` on the same randomly generated array and printed as a simple comparison table. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

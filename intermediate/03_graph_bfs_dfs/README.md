@@ -1,0 +1,1 @@
+An undirected graph as an adjacency list with BFS (using `std::queue`, which is idiomatic here since the point of the exercise is the graph traversal, not reimplementing a queue), recursive DFS, and connected-component detection by running DFS from every unvisited node. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

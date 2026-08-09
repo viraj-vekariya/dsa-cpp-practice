@@ -1,0 +1,1 @@
+A hashmap built by hand as an array of buckets with separate chaining (a manual linked list per bucket), using a polynomial rolling hash on the string key. Supports insert (with update-on-duplicate-key), get, remove, and reports the current load factor. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

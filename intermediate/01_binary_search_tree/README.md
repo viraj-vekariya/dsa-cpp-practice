@@ -1,0 +1,1 @@
+A binary search tree class with recursive insert, search, delete (handling the zero/one/two-children cases via the inorder successor), the three standard traversals, and a height calculation. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

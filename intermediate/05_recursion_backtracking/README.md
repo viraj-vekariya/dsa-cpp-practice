@@ -1,0 +1,1 @@
+Two classic backtracking problems: an N-Queens solver that finds and prints all 92 solutions for N=8 (with a board rendering of the first one), and a Sudoku solver that fills in a hardcoded 9x9 puzzle by trying digits 1-9 in each empty cell and backtracking on conflicts. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.
