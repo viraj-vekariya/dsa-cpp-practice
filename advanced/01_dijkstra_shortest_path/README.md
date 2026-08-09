@@ -1,0 +1,1 @@
+Dijkstra's shortest-path algorithm using `std::priority_queue` as the min-heap (idiomatic here, not a "from scratch" exercise), framed as a small road-network simulation between six named towns with distances in km, printing the shortest distance from a source city to every other city. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

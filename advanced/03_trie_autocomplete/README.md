@@ -1,0 +1,1 @@
+A Trie (prefix tree) with insert/search/startsWith, plus an autocomplete function that walks down to the prefix node and DFS-collects every complete word beneath it, from a small hardcoded dictionary. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.
