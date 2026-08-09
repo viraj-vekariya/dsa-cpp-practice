@@ -1,0 +1,1 @@
+A stack and a circular queue built manually on top of a fixed-size array (no `std::stack`/`std::queue`), with overflow/underflow checks, then the stack is put to use solving the balanced-parentheses problem for `()[]{}`. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

@@ -1,0 +1,1 @@
+Basic array operations implemented without leaning on STL algorithms: in-place reversal with a two-pointer swap, left rotation by k using the classic three-reversal trick, a single-pass scan to find the max/min/second-max, and a brute-force O(n^2) two-sum. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

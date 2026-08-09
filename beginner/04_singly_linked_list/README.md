@@ -1,0 +1,1 @@
+A singly linked list built from raw `Node*` pointers with insert at head/tail, delete by value, iterative reversal, and Floyd's cycle detection (slow/fast pointers). The demo manually wires a tail pointer back to the head to prove cycle detection actually works, then unlinks it before the list is destroyed. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.

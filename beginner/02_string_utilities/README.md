@@ -1,0 +1,1 @@
+A handful of common string interview drills: palindrome check with two pointers, anagram check using a fixed 256-size frequency array, reversing word order in a sentence via manual tokenizing, and a vowel/consonant counter. Run with `g++ -std=c++17 -Wall main.cpp -o out && ./out`.
