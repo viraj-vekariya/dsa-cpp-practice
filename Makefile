@@ -14,7 +14,8 @@ PROJECTS = \
 	advanced/01_dijkstra_shortest_path \
 	advanced/02_lru_cache \
 	advanced/03_trie_autocomplete \
-	advanced/04_union_find_kruskal
+	advanced/04_union_find_kruskal \
+	advanced/05_segment_tree
 
 .PHONY: all run-all clean $(PROJECTS)
 
