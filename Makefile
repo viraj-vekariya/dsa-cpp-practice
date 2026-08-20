@@ -11,6 +11,7 @@ PROJECTS = \
 	intermediate/03_graph_bfs_dfs \
 	intermediate/04_sorting_visualizer_cli \
 	intermediate/05_recursion_backtracking \
+	intermediate/06_binary_heap_priority_queue \
 	advanced/01_dijkstra_shortest_path \
 	advanced/02_lru_cache \
 	advanced/03_trie_autocomplete \
