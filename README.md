@@ -39,6 +39,7 @@ make clean            # remove all compiled binaries
 | `03_graph_bfs_dfs` | Adjacency-list graph with BFS, DFS, and connected-components detection. |
 | `04_sorting_visualizer_cli` | Bubble sort, merge sort, and quick sort from scratch, benchmarked and compared in a CLI table. |
 | `05_recursion_backtracking` | N-Queens solver (all 92 solutions for N=8) and a Sudoku backtracking solver. |
+| `06_binary_heap_priority_queue` | Array-backed binary min-heap from scratch (no `std::priority_queue`), used to merge k sorted lists in O(N log k). |
 
 ### advanced/
 
@@ -48,3 +49,4 @@ make clean            # remove all compiled binaries
 | `02_lru_cache` | O(1) get/put LRU cache using a doubly linked list + hashmap. |
 | `03_trie_autocomplete` | Trie with insert/search/startsWith and a prefix-based autocomplete function. |
 | `04_union_find_kruskal` | Union-find with path compression and union by rank, driving Kruskal's MST algorithm. |
+| `05_segment_tree` | Segment tree over a fixed array: O(log n) point updates and range-sum queries. |
